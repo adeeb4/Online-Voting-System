@@ -1,1 +1,2 @@
 # Online-Voting-System
+Our Online Voting System project employs HTML, CSS, PHP, and MySQL to facilitate secure and accessible voting processes online. It features robust user authentication, comprehensive candidate profiles, and a responsive interface for seamless voting on any device. The MySQL database securely stores and manages voting data, ensuring accuracy and integrity throughout the election period.
